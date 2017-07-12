@@ -1,0 +1,31 @@
+
+.Client-List{
+
+}
+
+.Client-Info{
+  display: inline-table;
+  border-style: solid;
+  border-color: #E7E7E7;
+
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+    float: left;
+    max-width: 200px;
+    padding: 19px;
+
+}
+
+img{
+  width: 150px;
+  height: 150px;
+}
+
+
+#name{
+color: #1980D0;
+font-size: 20px;
+}

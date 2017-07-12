@@ -1,0 +1,15 @@
+{
+  "name": "daily-project",
+  "version": "1.0.0",
+  "description": "User Directory",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rhonda Twitty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mustache-express": "^1.2.4"
+  }
+}
